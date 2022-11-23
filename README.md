@@ -1,7 +1,6 @@
 ![MasterHead](https://blog.rsisecurity.com/wp-content/uploads/2018/12/mssp-man-typing-computer2.jpg)
 <h1 align="center">Привет всем 👋! Меня зовут Алексей Пенкин.</h1>
 <h3 align="center">Начинающий HTML-верстальщик и фронтенд разработчик.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/33/6e/f0/336ef0a93f2be730b6cd8cb105e3bb0d.jpg">
 
 - 🔭 Я закончил обучение в [Яндекс.Практикум.](https://practicum.yandex.ru)
 
