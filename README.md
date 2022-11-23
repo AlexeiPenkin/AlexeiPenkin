@@ -3,8 +3,6 @@
 <h3 align="center">Начинающий HTML-верстальщик и фронтенд разработчик.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/33/6e/f0/336ef0a93f2be730b6cd8cb105e3bb0d.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexeipenkin&label=Profile%20views&color=0e75b6&style=flat" alt="alexeipenkin" /> </p>
-
 - 🔭 Я закончил обучение в [Яндекс.Практикум.](https://practicum.yandex.ru)
 
 - 👯 В настоящее время я занимаюсь поиском работы.Я хочу начать работу в IT-сфере **HTML-верстальщиком.**
